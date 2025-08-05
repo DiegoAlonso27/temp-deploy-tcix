@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baf8e4ea.css",
+    "main.js": "/static/js/main.03b4191a.js",
+    "static/media/inicio_header.png": "/static/media/inicio_header.e922ad6aa901c1888d0d.png",
+    "static/media/contactanos_header.png": "/static/media/contactanos_header.3f943845f6a5e9024f0a.png",
+    "static/media/destinos_header.png": "/static/media/destinos_header.f7c935a2100ac2b7289b.png",
+    "static/media/encomiendas_header.png": "/static/media/encomiendas_header.0e5d075ddbe375cc844d.png",
+    "static/media/servicios_header.png": "/static/media/servicios_header.da2579093e7b8b590f87.png",
+    "static/media/voucher.png": "/static/media/voucher.b3e0ad9b28b9f97c6010.png",
+    "static/media/gallery_03.png": "/static/media/gallery_03.3ac7a64089509b96b2ce.png",
+    "static/media/gallery_02.png": "/static/media/gallery_02.363a7ae184f4f18572ff.png",
+    "static/media/item_service.png": "/static/media/item_service.26d0ead4f1f736a217b3.png",
+    "static/media/gallery_01.png": "/static/media/gallery_01.071bd9bfa8a85a1795f5.png",
+    "static/media/bus-footer.png": "/static/media/bus-footer.7280f2f5dc5e180c5e35.png",
+    "static/media/lima.png": "/static/media/lima.90939b911b2338efcdb0.png",
+    "static/media/trujillo.png": "/static/media/trujillo.836c8912e7b56d73cfe4.png",
+    "static/media/entrega.png": "/static/media/entrega.a1af0bbe7c661ad1439d.png",
+    "static/media/recepcion.png": "/static/media/recepcion.5db85469208d5f109006.png",
+    "static/media/verificacion.png": "/static/media/verificacion.f0b2ed6b054dfeaefc6f.png",
+    "static/media/embalado.png": "/static/media/embalado.247c0869efffdcaec31d.png",
+    "static/media/t-logo.png": "/static/media/t-logo.5f1e274d01abb41d4735.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.baf8e4ea.css.map": "/static/css/main.baf8e4ea.css.map",
+    "main.03b4191a.js.map": "/static/js/main.03b4191a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf8e4ea.css",
+    "static/js/main.03b4191a.js"
+  ]
+}
